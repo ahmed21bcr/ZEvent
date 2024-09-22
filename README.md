@@ -25,4 +25,12 @@ Vous devez désormais importez la BDD, avec le fichier ```BDD.sql``` sur PHPMyAd
 Pour cela vous devez vous rendre sur PHPMyAdmin, dans le menu, puis importer un fichier, choisissez le fichier ```BDD.sql``` et prenez l'option utf-8.
 Vous devez désormais vous retrouvez avec une nouvelle BDD, nommez z-events
 
+### 2. Accés au site 
 
+Rendez-vous sur le site avec localhost:????/.../home/index.php,
+Pour accéder au dashboard streamer ou admin, cliquer sur connexion :
+
+- **Compte Streamer** : user : Streamer, password : 1234
+- **Compte Admin** : user : Admin, password : 1234
+
+Vous avez désormais accés au site.
